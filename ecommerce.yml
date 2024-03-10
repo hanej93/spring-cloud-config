@@ -1,6 +1,6 @@
 token:
   expiration-time: 86400000
-  secret: ej-testej-testej-testej-testej-testej-test
+  secret: '{cipher}AQBUzjJKcGQL2QRBWzCNJ0AXPduG8pNRO6RFJaJ+scbEIRuJRtTd5VgmAL2mTdIyMp+qyihnzqzIaijsxeP+gUocDJW5+uazA36VnzfhCPKDHrtxHQVymqxQq4zH8JhXrW0Anb+NpVta7bgcQZPWrPELyCFvzcK5DiBQLqfGfsNfpCaSouuohsw1PlZkmQDCfogrzXU33hbxayDZYNo8wTii4LdrsjNCT2tiZMAz0b+6PgJE2hQEvB6V+qdgwME2R0K6dDhF7P/nrUg6UbgWslQN/J52axsc22CFl4fY1/o05eHjdhhgDWd71C18mWfXPYs1/Np6BHfUi9vXHw3RYyj8yMjkAA2GP4FqCJRNsdePCGdF/TVzzWQn8ghjlCh5XOPStIbjq+PAnyA7bqQejOI16be769ymUbEyfA79gjqjHkMc+ndbgi9/xjCt/imYBew='
 
 gateway:
   ip: 172.19.224.1

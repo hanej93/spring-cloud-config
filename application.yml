@@ -1,0 +1,6 @@
+token:
+  expiration-time: 86400000
+  secret: ej-testej-testej-testej-testej-testej-test-native-application
+
+gateway:
+  ip: 172.19.224.1
