@@ -1,5 +1,5 @@
 token:
-  expiration-time: 84600000
+  expiration-time: 86400000
   secret: ej-testej-testej-testej-testej-testej-test
 
 gateway:
